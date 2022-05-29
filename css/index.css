@@ -1,0 +1,48 @@
+.TheWholeBigPage {
+	< !-- 整个大页面 -->width: 1500px;
+	height: 2000px;
+}
+/* 
+div {
+	border: 1px solid #000000;
+} */
+
+.NavigationBlock>div {
+	height: 477px;
+	width: 33.3%;
+	background-color: #eee2c8;
+	float: left;
+	text-align: center;
+}
+
+.TheSecondBlock {
+	background-color: #ddc69d;
+}
+
+.LargePictureConten {
+	< !-- 大图片内容 -->width: 1500px;
+}
+.Classify{
+	font-size: 14px ;
+	color:#737373  ;
+	border-bottom: 1px black solid;
+	display: inline-block;
+	padding-bottom: 15px;
+}
+.Publicize{
+	font-size: 12px ;
+	color: #000100  ;
+	text-align: center;
+	padding:10px ;
+	margin-top: 15px;
+}
+.icon{
+	margin-top: 30px;
+}
+.LargePictureContent{
+	width:1062px ;
+}
+.HomePageContent{
+	margin-left: 15%;
+	margin-right: 15%;
+}
